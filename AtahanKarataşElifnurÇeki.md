@@ -17,3 +17,5 @@ Optimizasyon (Optimization): Modelin kayıp fonksiyonunu minimize etme süreci.
 Aktivasyon Fonksiyonu (Activation Function): Katmanların çıktısını belirleyen matematiksel fonksiyonlar.
 
 **Proje Linki:** https://www.kaggle.com/code/atahankarata/fish-classification
+
+**Bu projeyi Elifnur Çeki ile birlikte tamamladık**
